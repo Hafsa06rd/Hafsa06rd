@@ -50,7 +50,7 @@ I've worked with datasets across **healthcare, retail, energy, and entertainment
 - 👯 I'm looking to collaborate on **open data projects, dashboarding challenges, or anything involving messy real-world datasets**
 - 🤔 I'm looking for help with **best practices for deploying ML models in production environments**
 - 💬 Ask me about **Python for data analysis, Business Intelligence, SQL optimization, Feature engineering**
-- 📫 How to reach me: **[h.rouchdi6*@gmail.com](mailto:h.rouchdi6*@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/hafsa-rouchdi-24b972212/)**
+- 📫 How to reach me: **[h.rouchdi6*@gmail.com](mailto:h.rouchdi6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/hafsa-rouchdi-24b972212/)**
 - ⚡ Fun fact: **I trust data more than my memory :)**
 
 ---
