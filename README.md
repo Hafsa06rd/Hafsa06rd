@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-rouchdi-24b972212/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-rouchdi/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@h.rouchdi6)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hafsarouchdi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.rouchdi6@gmail.com)
@@ -50,7 +50,7 @@ I've worked with datasets across **healthcare, retail, energy, and entertainment
 - 👯 I'm looking to collaborate on **open data projects, dashboarding challenges, or anything involving messy real-world datasets**
 - 🤔 I'm looking for help with **best practices for deploying ML models in production environments**
 - 💬 Ask me about **Python for data analysis, Business Intelligence, SQL optimization, Feature engineering**
-- 📫 How to reach me: **[h.rouchdi6@gmail.com](mailto:h.rouchdi6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/hafsa-rouchdi-24b972212/)**
+- 📫 How to reach me: **[h.rouchdi6@gmail.com](mailto:h.rouchdi6@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/hafsa-rouchdi/)**
 - ⚡ Fun fact: **I trust data more than my memory :)**
 
 ---
@@ -165,7 +165,7 @@ If you have an interesting problem that needs a data perspective, I'd love to he
 
 <div align="center">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-rouchdi-24b972212/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-rouchdi/)
 [![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.rouchdi6@gmail.com)
 
 </div>
